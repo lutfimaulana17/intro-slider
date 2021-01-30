@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "key": "1",
+            "title": "Plant a tree, so that the next generation can get air for free",
+            "description": "More trees would mean that fewer people would have to spend money on oxygen"
+          },
+          {
+            "key": "2",
+            "title": "Trees make the environment cleaner and provide us with oxygen.",
+            "description": "If you cut a tree, you kill a life. If you save a tree, you save a life. If you plant a tree, you plant a life."
+          },
+          {
+            "key": "3",
+            "title": "Don’t make trees rare, keep them with care.",
+            "description": "It’s imperative that we conserve trees so that our lives aren’t adversely affected."
+          },
+          {
+            "key": "4",
+            "title": "Take care of the trees, they will take care of you.",
+            "description": "Nature is all about give and take, and we reap what we sow"
+          }
+    ]
+}
